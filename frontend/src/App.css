@@ -1,0 +1,19 @@
+.uni-padding{
+  padding: 15px 80px !important;
+}
+
+.page-container, .home-container{
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.table-style{
+  padding: 0 10%;
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
